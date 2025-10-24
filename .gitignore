@@ -1,0 +1,10 @@
+data/
+venv/
+extraction/
+config/
+research_notes.md
+.DS_Store
+__pycache__/
+function_validation/
+removed_files/
+resources/
